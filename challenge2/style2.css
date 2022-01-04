@@ -1,0 +1,8 @@
+body{
+    background-image: url(../assets/pokemon-bg.jpg);
+}
+
+.container{
+    display: flexbox;
+    background-color: white;
+}
