@@ -3,6 +3,21 @@ body{
 }
 
 .container{
-    display: flexbox;
+    display: flex;
     background-color: white;
+    color: black;
+    flex-direction: column;
+    text-align: center;
+    margin: 250px;
+    border-radius: 20%;
+    -webkit-box-shadow: 6px 6px 19px 0px rgba(0,0,0,0.5); 
+box-shadow: 6px 6px 19px 0px rgba(0,0,0,0.5);
+}
+
+.dp{
+
+border-radius: 50%;
+width: 180px;
+text-align: center;
+margin: 50px;
 }
